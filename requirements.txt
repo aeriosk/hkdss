@@ -2,3 +2,4 @@ numpy==1.16.*
 matplotlib==2.2.*
 seaborn==0.9.*
 pandas==0.24.*
+bqplot==0.11.*
